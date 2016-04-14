@@ -1,0 +1,33 @@
+4 2
+
+ Training with alpha 0.9
+Error after 0 iterations 0.5316524381348038
+Error after 100000 iterations 0.07919825787879317
+Error after 200000 iterations 0.07637689997362136
+Error after 300000 iterations 0.0749309259609971
+Error after 400000 iterations 0.0739835187682603
+Error after 500000 iterations 0.07328950557563607
+
+ Training with alpha 0.95
+Error after 0 iterations 0.5316524381348038
+Error after 100000 iterations 0.0789613740663709
+Error after 200000 iterations 0.07617654396273815
+Error after 300000 iterations 0.07474841758047798
+Error after 400000 iterations 0.07381240062985747
+Error after 500000 iterations 0.0731265839492882
+
+ Training with alpha 2
+Error after 0 iterations 0.5316524381348038
+Error after 100000 iterations 0.08281688540359951
+Error after 200000 iterations 0.08038643821403843
+Error after 300000 iterations 0.07911498131277273
+Error after 400000 iterations 0.07827269327664563
+Error after 500000 iterations 0.07765116823622442
+
+ Training with alpha 2.3
+Error after 0 iterations 0.5316524381348038
+Error after 100000 iterations 0.08232274279947285
+Error after 200000 iterations 0.07995198188248187
+Error after 300000 iterations 0.07871178865841591
+Error after 400000 iterations 0.07789024456653199
+Error after 500000 iterations 0.07728404491155752
